@@ -22,6 +22,10 @@ this way.
 ```
 
 # 2. 什么是SAM-BA, SAM-BA的特点
+   参考第1节内容，SAM-BA应该属于IAP.模型参考如下
+![images](https://github.com/yuchengstudio/SAMBA/blob/master/app_note/pictures/SAM-BA_001.jpg)
+
+   
 
 
 
