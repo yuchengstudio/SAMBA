@@ -4,7 +4,6 @@
 * [1.什么是SAM-BA, SAM-BA的特点](#1-什么是SAM-BA, SAM-BA的特点)
 
 # 1. 什么是ISP,什么是IAP
-# 2. 什么是SAM-BA, SAM-BA的特点
 ```
     In-System Programming (ISP) is programming the microcontroller while the chip is on 
 board and connected to many other components.During ISP every pin on microcontroller 
@@ -21,6 +20,8 @@ A bootloader software resides in The microcontroller which will down the rest of
 firmware via (UART /USB). Many hobby development boards in microcontroller market works 
 this way.
 ```
+
+# 2. 什么是SAM-BA, SAM-BA的特点
 
 
 
