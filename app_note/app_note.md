@@ -42,7 +42,7 @@ AT91Boot_DLL，由SAM-BA和所有ISP工具使用，SAM-BA用于在PC上运行的
 • USB  
 •UART  
 •JTAG  
-！[images](https://github.com/yuchengstudio/SAMBA/blob/master/app_note/pictures/SAM-BA_002.jpg)
+![images](https://github.com/yuchengstudio/SAMBA/blob/master/app_note/pictures/SAM-BA_002.jpg)
 
    
 
