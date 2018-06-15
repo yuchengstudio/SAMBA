@@ -21,7 +21,7 @@ firmware via (UART /USB). Many hobby development boards in microcontroller marke
 this way.
 ```
 
-# 2. 什么是SAM-BA, SAM-BA的特点
+# 2. SAM-BA概述
 参考第1节内容，SAM-BA应该属于IAP.模型参考如下
 ![images](https://github.com/yuchengstudio/SAMBA/blob/master/app_note/pictures/SAM-BA_001.jpg)
 
@@ -35,7 +35,9 @@ SAM-BA的特点
 ```
 
 
-
+## 2.1 SAM-BA介绍
+SAM启动协助（SAM-BA）软件为Microchip SAMARM®Thumb®微控制器的编程提供了一套开放的工具。它们基于通用动态链接库（DLL），
+AT91Boot_DLL，由SAM-BA和所有ISP工具使用，SAM-BA用于在PC上运行的主机图形用户界面（SAM-BA GUI）与现有系统板上的目标器件（Cortex-M器件）之间建立通信。
    
 
 
