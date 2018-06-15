@@ -1,7 +1,7 @@
 
 #                                                               目录
 * [1.什么是ISP,什么是IAP](#1-什么是ISP,什么是IAP)
-* [2.什么是SAM-BA, SAM-BA的特点](#1-什么是SAM-BA, SAM-BA的特点)
+* [1.什么是SAM-BA, SAM-BA的特点](#1-什么是SAM-BA, SAM-BA的特点)
 
 # 1. 什么是ISP,什么是IAP
 # 2. 什么是SAM-BA, SAM-BA的特点
