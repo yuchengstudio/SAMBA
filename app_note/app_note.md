@@ -48,6 +48,13 @@ AT91Boot_DLL，由SAM-BA和所有ISP工具使用，SAM-BA用于在PC上运行的
 # 3. 如何使用SAM-BA
 请参考https://github.com/yuchengstudio/SAMBA/blob/master/app_note/SAM-BA%20%20for%20%20Romless%20cortex-M%20MCU.pdf 文档中的“6. Using SAM-BA Monitor”
 
+
+# 4. SAM-BA固件
+请选择如下链接的SAM-BA MONITOR ROMLESS Vxxx。
+http://www.microchip.com/DevelopmentTools/ProductDetails/Atmel%20SAM-BA%20In-system%20Programmer
+
+
+
    
 
 
