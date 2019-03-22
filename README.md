@@ -29,6 +29,11 @@ http://asf.atmel.com/docs/latest/sam0.applications.i2c_slave_bootloader.samr21_x
  http://ww1.microchip.com/downloads/en/AppNotes/Atmel-42455-SAMD20-SD-Card-Bootloader_Application-Note_AT06037.pdf
  
  
- 
+ # 3.其他的bootloader方法：
+<br/>Available for UART and I2C interfaces
+<br/>Bare-metal code
+<br/>Easy to modify for customer requirements
+<br/>Available for devices SAM D10, SAM D20, SAM D21, SAM C21, SAM L10, SAM L11, SAM E54
+
  
 
