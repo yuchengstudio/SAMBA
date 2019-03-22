@@ -3,7 +3,7 @@
 https://github.com/yuchengstudio/SAMBA/blob/master/app_note/Implementing%20a%20Bootloader%20on%20SAMD21%20v1.0.pdf
 
 # 2.使用ASFv3 Bootlosers 升级程序
-## I2C Slave Bootloader
+## 2.1  I2C Slave Bootloader
 <br/> Available for SAM D11, SAM D20, SAM D21, SAM L21 and SAM L22
 <br/> I2C Master sends the data to be programmed over I2C bus
 <br/>Documentation:
@@ -14,12 +14,12 @@ http://asf.atmel.com/docs/latest/sam0.applications.i2c_slave_bootloader.samr21_x
 <br/> Documentation: http://asf.atmel.com/docs/3.40.0/sam0.applications.i2c_master_bootloader_bridge.samd21_xpro/html/appdoc_main.html
 
 
-## #SAM D21 USB MSC Bootloader
+## 2.2 SAM D21 USB MSC Bootloader
 <br/>It can detect a mass storage device (for example a USB thumb-drive) when connected to the USB-port. 
 <br/>If this device contains an updated firmware image, the bootloader can update the flash of the device with new firmware.
 <br/>Documentation: http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42352-SAM-D21-XPRO-USB-Host-MSC-Bootloader_Training-Manual_AN8185.pdf
 
-## SPI SD Card Bootloader (SPI Master bootloader)
+## 2.3 SPI SD Card Bootloader (SPI Master bootloader)
 <br/> Available only for SAM D20
 <br/> Programming through SPI Master Bootloader
 <br/> SD/MMC card is used as the SPI slave to store the binary file to be programmed to the device.
