@@ -2,6 +2,9 @@
 ## 利用SAMD21 xplained pro 板了解SAMBA工作流程
 https://github.com/yuchengstudio/SAMBA/blob/master/app_note/Implementing%20a%20Bootloader%20on%20SAMD21%20v1.0.pdf
 
+## SAM-BA官网下载链接
+https://www.microchip.com/developmenttools/ProductDetails/atmel%20sam-ba%20in-system%20programmer#additional-summary
+
 # 2.使用ASFv3 Bootlosers 升级程序
 ## 2.1  I2C Slave Bootloader
 <br/> Available for SAM D11, SAM D20, SAM D21, SAM L21 and SAM L22
